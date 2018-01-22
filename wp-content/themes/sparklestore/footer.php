@@ -40,8 +40,12 @@
 </a>
 <footer id="colophon" class="rsrc-footer" role="contentinfo">
 	<div class="container">
+	    
+	   
 	    <div class="row">
-	        <div class="col-sm-6 ">
+	        <div class="col-sm-8">
+	            <div class="row">
+	        <div class="col-sm-6" id="sp">
 	            <h4 class="foth4">
 	            Sakriya
 	                
@@ -60,7 +64,7 @@
 
         
 	            
-	        <div class="col-sm-3 ">
+	        <div class="col-sm-3 " id="sp">
 	            <h4 class="foth4">
 	       Policies
 	                
@@ -69,7 +73,8 @@
 	             <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://173.199.185.100/~sosasap/rahul/sports/terms-conditions/">&nbsp;Terms & Conditions</a></p>
 	            
 	            </div>
-	            <div class="col-sm-3">
+	            <div class="col-sm-3" id="sp">
+	                
 	            <h4 class="foth4">
 	       Enquiries
 	                
@@ -78,9 +83,29 @@
 	             <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://173.199.185.100/~sosasap/rahul/sports/contact-us/">&nbsp;Contact Us</a></p>
 	            
 	            </div>
-	       
+	            </div>
+	            <div class="row">
+	                <div class="col-sm-12">
+	                    <br>
+	                    <br>
+	                    <strong id=tp>About Sakriya:</strong> Sakriya.com is Bengaluru's largest online sports equipments & nutrition supplements store. Shop online from the latest collections of health, fitness and similar products featuring the best brands.
+	                    Sakriya also provides one stop solutions for the sporting requirements of institutions like Premier sporting teams, Clubs & Academies, Schools & Colleges, Corporates and many more. Some of the services offered to institutions include sports goods, sports merchandise design, development and distribution, sports infrastructure, events and consulting.
+	                    
+	                    In a very short time span since its inceptions, Sakriya has taken the pole position in the sports segment in Bengaluru. The company has received several accolades and has been identified as one of the Top Online Shopping site.
+	                </div>
+	            </div>
+	            </div>
+	            
+	            
+	            <div class="col-sm-4" id="subs" >
+	    <p id=ta>Want to be part of something special?</p>
+         <p id=tr>Join our community.</p>
+	 <div class=news>   <?php es_subbox($namefield = "YES", $desc = "", $group = "Public"); ?></div>
+	   <p id=tu>We'll send you emails from time to time about our flash sales, promotions and referral deals!</p>
+	   </div>
+	        
 	    </div>
-	    
+	   
 	    
 	</div>
 	<br>

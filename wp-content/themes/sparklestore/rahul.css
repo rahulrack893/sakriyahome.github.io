@@ -521,3 +521,105 @@ footer{
     margin-left: auto;
     margin-right: auto;
 }
+.s4wc-save-card{
+	    position: relative!important;
+}
+#wp-live-chat-header{
+	margin-right: 48px;
+    margin-bottom: 2px;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	    color: black;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea{
+	border:1px solid #e8e8e8;
+}
+.breadcrumbs:before{
+	background:none;
+}
+.berocket_label_widgets{
+	font-weight:100;
+}
+.woocommerce .woocommerce-breadcrumb a{
+	color:black;
+}
+.page-title{
+	color:black;
+}
+.woocommerce .woocommerce-breadcrumb{
+	color:black;
+}
+#sparklestore-breadcrumb, #sparklestore-breadcrumb a:hover{
+	color:black;
+}
+#sparklestore-breadcrumb a, #sparklestore-breadcrumb a:visited, #sparklestore-breadcrumb a:focus{
+	color:black;
+}
+#subs{
+	text-align:center;
+}
+#es_txt_button_pg{
+	font-size: 16px;
+    background-color: #00bfbf;
+    border-color: #00bfbf
+}
+#sp{
+	margin-top:20px;
+}
+#ta{
+	font-size: 20px;
+    margin-top: 22px;
+}
+#tr{
+	font-size:20px;
+}
+#tu{
+	font-size:16px;
+}
+.foth4{
+	font-size:26px;
+	    font-family: Oswald,sans-serif;
+	padding-bottom:20px;
+	color:#033772;
+}
+.fotp2 a{
+	color: #00bfbf;
+    font-size: 16px;
+}
+footer{
+	font-family: 'Open Sans', sans-serif;
+}
+footer i{
+	font-size:20px;
+}
+#tp{
+	
+	font-size:16px;
+}
+.scrollup{
+	margin-bottom: -51px;
+}
+.product_title .entry-title{
+font-family: 'Open Sans Condensed', sans-serif;
+}
+.wishlist .top-wishlist a i.fa, .view-cart .cart-contents .header-icon i{
+	    color: #00bfbf;
+}
+.wishlist .top-wishlist a .count, .view-cart .cart-contents .header-icon .count{
+	    background: #033772;
+	    font-size:12px;
+}
+#tab-description li{
+	list-style:circle;
+}
+.top-cart-content{
+	right:-80px;
+}
+.woocommerce-mini-cart__empty-message{
+	text-align:center;
+}
+
+.page-id-7 footer{
+	margin-top: 5% !important;
+}
