@@ -562,7 +562,12 @@ footer{
 #es_txt_button_pg{
 	font-size: 16px;
     background-color: #00bfbf;
-    border-color: #00bfbf
+    border-color: #00bfbf;
+	color: white;
+}
+#es_txt_button_pg:hover{
+	color: white;
+	font-size: 18px;
 }
 #sp{
 	margin-top:20px;
@@ -622,4 +627,10 @@ font-family: 'Open Sans Condensed', sans-serif;
 
 .page-id-7 footer{
 	margin-top: 5% !important;
+}
+.breadcrumbs {
+	text-align: left;
+}
+.woocommerce-mini-cart-item a{
+	color: black !important;
 }
