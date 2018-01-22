@@ -22,7 +22,8 @@
      
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-   
+  <link rel="stylesheet" href="http://localhost/sports\wp-content\themes\sparklestore/rahul.css">
+  
    
    
 </head>
