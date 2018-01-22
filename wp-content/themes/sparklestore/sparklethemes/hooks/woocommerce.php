@@ -6,7 +6,7 @@ if (!function_exists('sparklestore_shopping_cart')) {
     function sparklestore_shopping_cart() { ?>
         <a class="cart-contents" href="<?php echo esc_url( wc_get_cart_url() ); ?>">
             <div class="header-icon">
-                <i class="fa fa-shopping-bag"></i>
+                <i class="fa fa-shopping-cart"></i>
                 <span class="name-text"><?php esc_html_e('My Cart', 'sparklestore'); ?></span>
                 <span class="count">
                     <?php echo wp_kses_data(sprintf(WC()->cart->get_cart_contents_count())); ?>
