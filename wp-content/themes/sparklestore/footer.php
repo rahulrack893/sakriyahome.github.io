@@ -69,8 +69,8 @@
 	       Policies
 	                
 	            </h4>
-	            <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://173.199.185.100/~sosasap/rahul/sports/privacy-policy/">&nbsp;Privacy Policy</a></p>
-	             <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://173.199.185.100/~sosasap/rahul/sports/terms-conditions/">&nbsp;Terms & Conditions</a></p>
+	            <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://localhost/sakriya/privacy-policy/">&nbsp;Privacy Policy</a></p>
+	             <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://localhost/sakriya/terms-conditions/">&nbsp;Terms & Conditions</a></p>
 	            
 	            </div>
 	            <div class="col-sm-3" id="sp">
@@ -79,8 +79,8 @@
 	       Enquiries
 	                
 	            </h4>
-	            <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://173.199.185.100/~sosasap/rahul/sports/bulk-order/">&nbsp;Bulk Purchase</p></a>
-	             <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://173.199.185.100/~sosasap/rahul/sports/contact-us/">&nbsp;Contact Us</a></p>
+	            <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://localhost/sakriya/privacy-policy/bulk-order/">&nbsp;Bulk Purchase</p></a>
+	             <p class="fotp2"><i class="fa fa-caret-right" aria-hidden="true"></i><a href="http://localhost/sakriya/privacy-policy/contact-us/">&nbsp;Contact Us</a></p>
 	            
 	            </div>
 	            </div>
