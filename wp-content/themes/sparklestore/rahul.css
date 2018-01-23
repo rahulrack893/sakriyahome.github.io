@@ -634,3 +634,24 @@ font-family: 'Open Sans Condensed', sans-serif;
 .woocommerce-mini-cart-item a{
 	color: black !important;
 }
+#shopping, #checkout{
+	margin-top: 20px;
+	background: #022773;
+}
+#shopping:hover, #checkout:hover{
+	background: #23527c;
+}
+#shopping a, #checkout a{
+	color: white;
+	text-decoration: none;
+}
+#shopping a:hover, #checkout a:hover{
+	border-bottom: 1px solid white;
+}
+.page-title{
+	text-align: center;
+}
+
+.tax-product_cat .woocommerce-breadcrumb{
+	margin-top: -60px;
+}

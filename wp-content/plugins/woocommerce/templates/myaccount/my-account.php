@@ -37,8 +37,17 @@ do_action( 'woocommerce_account_navigation' ); ?>
 		do_action( 'woocommerce_account_content' );
 	?>
 </div>
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
 
-
+<button type="button" class="btn btn-default btn-lg" id="shopping"><a href="http://localhost/sports/"><< Continue Shopping</a></button>
+</div>
+<div class="col-sm-6">
+<button type="button" class="btn btn-default btn-lg" id="checkout"><a href="http://localhost/sports/checkout/">Proceed to Checkout >></a></button>
+</div>
+</div>
+</div>
 
 
 
