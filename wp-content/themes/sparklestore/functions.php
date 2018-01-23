@@ -424,7 +424,7 @@ add_action( 'template_redirect', 'wc_bypass_logout_confirmation' );
 
   
 // Custom redirect for users after logging in
-function my_login_redirect( $redirect_to, $request, $user ) {
+/*function my_login_redirect( $redirect_to, $request, $user ) {
 	//is there a user to check?
 	if ( isset( $user->roles ) && is_array( $user->roles ) ) {
 		//check for admins
@@ -482,9 +482,9 @@ add_action( 'woocommerce_save_account_details', 'my_woocommerce_save_account_det
 function my_woocommerce_save_account_details( $user_id ) {
 	update_user_meta( $user_id, 'birthdate', htmlentities( $_POST[ 'birthdate' ] ) ); 
 } // end func
-*/
+
 
 add_filter('woocommerce_login_redirect', 'user_redirection_page');
 function user_redirection_page( $redirect_to ) {
      return esc_url( home_url( '/' ) );
-}
+}*/
