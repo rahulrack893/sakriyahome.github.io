@@ -408,7 +408,7 @@ function iconic_bypass_logout_confirmation() {
 add_action( 'template_redirect', 'iconic_bypass_logout_confirmation' );
 end*/
 // logout without confirmation
-function wc_bypass_logout_confirmation() {
+/*function wc_bypass_logout_confirmation() {
     global $wp;
  
     if ( isset( $wp->query_vars['customer-logout'] ) ) {
@@ -419,7 +419,7 @@ function wc_bypass_logout_confirmation() {
  
 add_action( 'template_redirect', 'wc_bypass_logout_confirmation' );
 //end
-
+*/
 
 
   
